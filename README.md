@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # carrental
-=======
 # Patna-Car-Rental
 Online Car Rental Management System 
 
@@ -24,4 +22,3 @@ This is a Web based Application developed using PHP as a Host Language. Database
 
 > - Booking Summary
 <img src="/Screenshots/bookings.png" width="800" height="450" alt="booking_summary"/>
->>>>>>> 410558d (Initializing Project)
